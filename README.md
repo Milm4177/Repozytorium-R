@@ -1,9 +1,13 @@
 # Repozytorium-R
 
-#*Nagłówek*
+# **Nagłówek**
 
-##Pod nagłówek
+## Pod nagłówek
 
 -jeden
 -dwa
 -trzy
+
+# Nowy nagłówek w gałęzi
+
+-kontynuuować pracę
